@@ -1,0 +1,12 @@
+h1. Operating Systems Assignment
+
+h2. Concurrent Monte Carlo Method
+
+*To run this program, simply do:*
+
+make
+./montecarlo
+
+*To remove the files created:*
+
+make clean
