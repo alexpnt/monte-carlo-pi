@@ -1,5 +1,5 @@
 Operating Systems Assignment
-############################
+============================
 
 Concurrent Monte Carlo Method
 -----------------------------
